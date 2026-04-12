@@ -3,7 +3,7 @@
 const { cast, makeSmartQuote } = require('../cast');
 
 cast({
-  pattern: 'hacker',
+  pattern: 'hakk',
   alias: ['fakehack', 'mockhack'],
   desc: 'Simulate a fake hacking process on a mentioned user',
   category: 'fun',
